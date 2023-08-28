@@ -55,7 +55,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="46dp"
-        android:text="02.09.2001"
+        android:text="Date?"
         android:textColor="#D1603D"
         android:textSize="30sp"
         android:textStyle="bold" />
@@ -74,7 +74,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="46dp"
-        android:text="156666666"
+        android:text="Minutes?"
         android:textColor="#D1603D"
         android:textSize="30sp"
         android:textStyle="bold" />
